@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/LivePriceConverterReact/static/css/main.5c95e547.css",
-    "main.js": "/LivePriceConverterReact/static/js/main.c570d942.js",
+    "main.js": "/LivePriceConverterReact/static/js/main.050fb881.js",
     "static/media/logo-transparent.png": "/LivePriceConverterReact/static/media/logo-transparent.af31673cfacfee90790c.png",
     "index.html": "/LivePriceConverterReact/index.html",
     "main.5c95e547.css.map": "/LivePriceConverterReact/static/css/main.5c95e547.css.map",
-    "main.c570d942.js.map": "/LivePriceConverterReact/static/js/main.c570d942.js.map"
+    "main.050fb881.js.map": "/LivePriceConverterReact/static/js/main.050fb881.js.map"
   },
   "entrypoints": [
     "static/css/main.5c95e547.css",
-    "static/js/main.c570d942.js"
+    "static/js/main.050fb881.js"
   ]
 }
