@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/live_price_converter_website/static/css/main.5c95e547.css",
-    "main.js": "/live_price_converter_website/static/js/main.edea8718.js",
-    "static/media/logo-transparent.png": "/live_price_converter_website/static/media/logo-transparent.af31673cfacfee90790c.png",
-    "index.html": "/live_price_converter_website/index.html",
-    "main.5c95e547.css.map": "/live_price_converter_website/static/css/main.5c95e547.css.map",
-    "main.edea8718.js.map": "/live_price_converter_website/static/js/main.edea8718.js.map"
+    "main.css": "/LivePriceConverterReact/static/css/main.5c95e547.css",
+    "main.js": "/LivePriceConverterReact/static/js/main.c570d942.js",
+    "static/media/logo-transparent.png": "/LivePriceConverterReact/static/media/logo-transparent.af31673cfacfee90790c.png",
+    "index.html": "/LivePriceConverterReact/index.html",
+    "main.5c95e547.css.map": "/LivePriceConverterReact/static/css/main.5c95e547.css.map",
+    "main.c570d942.js.map": "/LivePriceConverterReact/static/js/main.c570d942.js.map"
   },
   "entrypoints": [
     "static/css/main.5c95e547.css",
-    "static/js/main.edea8718.js"
+    "static/js/main.c570d942.js"
   ]
 }
